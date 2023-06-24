@@ -3,11 +3,11 @@
     padding: 0;
     margin: 0;
 }
-
+/* styles for the body */
 body {
     background-color: #d9dcd6;
 }
-
+/* styles for the header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -49,7 +49,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* styling for the digital marketing meeting image */
 .hero {
     height: 800px;
     width: 100%;
@@ -85,7 +85,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* styling for the icons on the right of our page */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -133,7 +133,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* styling for images related to the nav bar options */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -160,7 +160,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* add. sizing for the images */
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -187,7 +187,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* styling for the footer */
 .footer {
     padding: 30px;
     clear: both;
